@@ -53,7 +53,7 @@ const deleteTask = (id) => {
 
 // Example usage of the task manager
 console.log('=== Simple Task Manager ===');
-addTask('Finish my assignment');
+addTask('Complete my assignments');
 addTask('Learn JavaScript basics');
 viewTasks();
 completeTask(1);
